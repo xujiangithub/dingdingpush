@@ -1,4 +1,4 @@
-package com.xj.test
+package com.xj.xjdemo
 
 import org.junit.Test
 

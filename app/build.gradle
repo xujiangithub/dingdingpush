@@ -7,7 +7,7 @@ android {
     buildToolsVersion "30.0.0"
 
     defaultConfig {
-        applicationId "com.xj.test"
+        applicationId "com.xj.xjdemo"
         minSdkVersion 19
         targetSdkVersion 30
         versionCode 1
